@@ -16,6 +16,8 @@ This is a basic workflow for generating images from text using Flux. The workflo
 Before the first run, expand the FluxMagic node and set the following parameter:
 - ckpt_name
 
+You also need to install one extension: Comfyroll Studio
+
 Press **Ctrl + Enter** or click **Queue** to start the process.
 
 ---
